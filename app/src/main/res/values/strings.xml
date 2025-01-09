@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CounterVFinal</string>
+    <string name="Button_sum">+1</string>
+</resources>
